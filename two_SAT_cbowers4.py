@@ -269,7 +269,6 @@ def plot_results(results):
     plt.grid(True, which="both", ls="--")
     plt.legend()
 
-    # Display the plot
     plt.show()
 
 
