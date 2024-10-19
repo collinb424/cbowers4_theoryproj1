@@ -1,0 +1,100 @@
+Problem 1: Satisfiable, Time: 33.62 µs, Assignment: {3: False, 1: True, 2: True, 4: True}
+Problem 2: Unsatisfiable, Time: 24.08 µs
+Problem 3: Satisfiable, Time: 22.65 µs, Assignment: {1: True, 3: True, 2: True, 4: False}
+Problem 4: Satisfiable, Time: 23.60 µs, Assignment: {1: False, 3: False, 2: True, 4: True}
+Problem 5: Unsatisfiable, Time: 11.68 µs
+Problem 6: Unsatisfiable, Time: 20.03 µs
+Problem 7: Unsatisfiable, Time: 15.74 µs
+Problem 8: Satisfiable, Time: 12.16 µs, Assignment: {1: False, 2: False, 3: True}
+Problem 9: Satisfiable, Time: 21.22 µs, Assignment: {3: False, 1: False, 4: True, 2: True}
+Problem 10: Satisfiable, Time: 16.69 µs, Assignment: {1: True, 3: False, 2: True, 4: False}
+Problem 11: Satisfiable, Time: 28.85 µs, Assignment: {4: False, 8: True, 1: True, 5: False, 7: False, 3: False, 6: False, 2: False}
+Problem 12: Satisfiable, Time: 46.49 µs, Assignment: {2: True, 1: True, 6: False, 3: False, 4: True, 5: False, 7: True, 8: False}
+Problem 13: Satisfiable, Time: 50.07 µs, Assignment: {8: True, 1: False, 5: True, 2: True, 7: True, 6: False, 4: False, 3: True}
+Problem 14: Unsatisfiable, Time: 49.35 µs
+Problem 15: Unsatisfiable, Time: 43.39 µs
+Problem 16: Unsatisfiable, Time: 32.66 µs
+Problem 17: Unsatisfiable, Time: 52.21 µs
+Problem 18: Satisfiable, Time: 36.48 µs, Assignment: {6: True, 1: True, 3: True, 5: False, 2: False, 7: True, 4: False, 8: False}
+Problem 19: Satisfiable, Time: 30.76 µs, Assignment: {1: True, 8: False, 5: False, 6: False, 4: False, 2: False, 3: True}
+Problem 20: Unsatisfiable, Time: 31.23 µs
+Problem 21: Unsatisfiable, Time: 48.64 µs
+Problem 22: Satisfiable, Time: 76.29 µs, Assignment: {3: True, 12: True, 1: True, 2: False, 5: False, 4: False, 6: True, 7: False, 8: True, 11: True, 10: True, 9: False}
+Problem 23: Satisfiable, Time: 53.41 µs, Assignment: {3: True, 9: False, 12: True, 5: False, 1: True, 8: False, 10: False, 2: False, 11: True, 6: True}
+Problem 24: Satisfiable, Time: 38.15 µs, Assignment: {2: True, 11: False, 5: True, 10: True, 9: True, 3: False, 1: True, 6: True, 8: True, 12: True, 7: True, 4: False}
+Problem 25: Satisfiable, Time: 36.72 µs, Assignment: {11: False, 2: True, 4: False, 6: True, 1: True, 9: True, 8: True, 10: True, 12: True, 3: False, 5: True, 7: False}
+Problem 26: Satisfiable, Time: 34.33 µs, Assignment: {4: False, 1: False, 7: True, 8: True, 3: True, 2: False, 9: False, 5: False, 10: True, 12: True, 6: False, 11: True}
+Problem 27: Unsatisfiable, Time: 33.86 µs
+Problem 28: Unsatisfiable, Time: 53.17 µs
+Problem 29: Unsatisfiable, Time: 39.82 µs
+Problem 30: Unsatisfiable, Time: 48.88 µs
+Problem 31: Satisfiable, Time: 84.64 µs, Assignment: {2: True, 3: True, 11: False, 16: True, 9: False, 4: False, 1: False, 8: False, 13: True, 5: True, 15: True, 6: True, 10: True, 12: True, 14: False}
+Problem 32: Unsatisfiable, Time: 55.31 µs
+Problem 33: Satisfiable, Time: 76.06 µs, Assignment: {11: True, 1: True, 12: True, 13: True, 10: False, 5: False, 7: False, 14: False, 6: False, 2: True, 3: True, 15: False, 8: True, 16: True, 4: False, 9: True}
+Problem 34: Satisfiable, Time: 77.01 µs, Assignment: {15: False, 11: True, 4: True, 1: True, 10: True, 6: True, 16: False, 5: False, 2: False, 14: False, 12: False, 9: False, 3: True, 7: False, 13: False, 8: False}
+Problem 35: Unsatisfiable, Time: 171.18 µs
+Problem 36: Satisfiable, Time: 84.40 µs, Assignment: {16: False, 7: False, 1: False, 2: False, 14: True, 8: True, 12: True, 13: True, 3: False, 4: False, 11: True, 9: False, 6: True, 5: True, 10: True}
+Problem 37: Unsatisfiable, Time: 67.00 µs
+Problem 38: Satisfiable, Time: 142.81 µs, Assignment: {2: False, 11: False, 7: True, 1: True, 8: False, 3: False, 10: False, 5: False, 16: False, 12: False, 14: True, 15: True, 9: True, 4: False, 6: True, 13: True}
+Problem 39: Unsatisfiable, Time: 116.11 µs
+Problem 40: Satisfiable, Time: 89.88 µs, Assignment: {8: True, 5: False, 1: True, 10: False, 16: True, 2: False, 7: True, 3: False, 14: False, 15: False, 11: False, 13: False, 4: False, 9: False, 6: True}
+Problem 41: Unsatisfiable, Time: 120.64 µs
+Problem 42: Unsatisfiable, Time: 109.43 µs
+Problem 43: Unsatisfiable, Time: 129.46 µs
+Problem 44: Satisfiable, Time: 76.06 µs, Assignment: {6: False, 15: True, 4: True, 14: True, 1: True, 8: True, 11: True, 10: True, 12: False, 16: False, 13: True, 2: False, 9: True, 18: True, 3: False, 7: True, 5: False}
+Problem 45: Unsatisfiable, Time: 209.33 µs
+Problem 46: Satisfiable, Time: 94.18 µs, Assignment: {2: True, 12: False, 10: True, 1: True, 13: True, 3: True, 4: False, 5: True, 7: False, 16: True, 8: True, 17: False, 11: True, 14: True, 18: False, 9: False, 15: False, 6: True}
+Problem 47: Satisfiable, Time: 67.95 µs, Assignment: {3: True, 12: False, 9: True, 13: False, 14: False, 4: True, 11: False, 10: True, 16: False, 1: True, 8: False, 17: False, 2: True, 5: False, 6: True, 18: True, 7: False}
+Problem 48: Unsatisfiable, Time: 89.17 µs
+Problem 49: Satisfiable, Time: 73.19 µs, Assignment: {10: False, 4: True, 17: False, 3: False, 1: True, 5: False, 14: False, 18: False, 6: True, 9: True, 2: True, 7: True, 11: True, 8: False, 12: False, 16: False, 13: True, 15: True}
+Problem 50: Unsatisfiable, Time: 77.25 µs
+Problem 51: Unsatisfiable, Time: 72.48 µs
+Problem 52: Satisfiable, Time: 132.32 µs, Assignment: {13: False, 16: True, 17: False, 18: True, 14: True, 1: True, 6: False, 4: True, 11: False, 2: False, 7: True, 3: True, 15: False, 8: False, 9: True, 10: True, 5: False, 19: True, 12: True}
+Problem 53: Satisfiable, Time: 124.22 µs, Assignment: {1: True, 14: True, 12: False, 4: True, 18: False, 2: True, 3: False, 5: False, 6: True, 7: True, 10: True, 13: True, 9: False, 19: True, 20: True, 15: False, 16: True, 11: True, 17: False}
+Problem 54: Satisfiable, Time: 75.34 µs, Assignment: {7: False, 20: True, 11: True, 6: True, 8: True, 5: False, 15: True, 1: True, 4: False, 16: False, 19: True, 9: True, 18: True, 17: True, 12: False, 10: False, 3: True, 2: True, 14: True}
+Problem 55: Unsatisfiable, Time: 189.30 µs
+Problem 56: Unsatisfiable, Time: 93.22 µs
+Problem 57: Unsatisfiable, Time: 75.10 µs
+Problem 58: Satisfiable, Time: 92.74 µs, Assignment: {19: True, 20: False, 16: True, 7: True, 1: True, 5: False, 11: False, 3: True, 18: False, 12: True, 14: True, 2: False, 4: False, 15: True, 9: False, 8: False, 6: False, 17: True, 10: True}
+Problem 59: Unsatisfiable, Time: 100.14 µs
+Problem 60: Unsatisfiable, Time: 107.05 µs
+Problem 61: Satisfiable, Time: 66.04 µs, Assignment: {8: False, 1: False, 21: False, 7: False, 4: False, 17: True, 16: False, 3: True, 15: False, 13: True, 6: False, 2: True, 20: False, 11: False, 5: True, 12: False, 14: True, 22: False, 9: False}
+Problem 62: Satisfiable, Time: 122.79 µs, Assignment: {13: True, 17: True, 8: True, 10: False, 1: True, 14: False, 18: True, 2: True, 19: False, 16: True, 22: True, 20: True, 6: True, 4: False, 15: False, 5: False, 21: True, 3: False, 9: True}
+Problem 63: Unsatisfiable, Time: 88.93 µs
+Problem 64: Satisfiable, Time: 81.78 µs, Assignment: {7: False, 13: True, 21: True, 16: True, 4: False, 3: False, 8: False, 1: True, 6: False, 17: True, 9: True, 11: True, 12: True, 18: False, 10: True, 14: True, 20: False, 15: True, 19: True, 22: True}
+Problem 65: Satisfiable, Time: 118.97 µs, Assignment: {8: False, 11: False, 13: False, 2: True, 15: False, 21: False, 14: True, 19: True, 1: True, 22: True, 6: False, 3: False, 7: True, 10: True, 20: True, 12: True, 17: True, 4: True, 16: True, 5: False, 18: False, 9: True}
+Problem 66: Satisfiable, Time: 67.95 µs, Assignment: {7: False, 16: False, 5: True, 2: False, 12: False, 17: True, 11: False, 20: True, 14: True, 1: True, 8: False, 10: False, 19: False, 4: False, 9: False, 15: True, 13: True, 3: True}
+Problem 67: Unsatisfiable, Time: 108.48 µs
+Problem 68: Unsatisfiable, Time: 103.24 µs
+Problem 69: Satisfiable, Time: 89.88 µs, Assignment: {14: True, 17: True, 16: False, 11: False, 2: True, 13: True, 9: True, 1: False, 15: False, 5: False, 3: True, 19: False, 20: True, 8: True, 10: True, 7: False, 21: True, 6: True, 18: False, 4: True, 12: True, 22: True}
+Problem 70: Unsatisfiable, Time: 82.49 µs
+Problem 71: Unsatisfiable, Time: 189.54 µs
+Problem 72: Satisfiable, Time: 105.86 µs, Assignment: {20: False, 17: True, 6: True, 11: True, 7: False, 18: False, 22: True, 13: True, 1: True, 2: True, 23: True, 3: True, 9: False, 4: True, 24: False, 14: True, 12: False, 15: True, 10: True, 8: True, 16: False, 19: True, 5: False}
+Problem 73: Satisfiable, Time: 101.57 µs, Assignment: {9: False, 24: False, 11: True, 12: True, 8: True, 23: False, 19: True, 10: False, 4: False, 1: True, 15: True, 5: False, 3: True, 14: False, 16: True, 21: True, 6: False, 22: False, 7: True, 2: True, 18: False, 20: False, 17: False, 13: False}
+Problem 74: Unsatisfiable, Time: 104.90 µs
+Problem 75: Unsatisfiable, Time: 85.59 µs
+Problem 76: Unsatisfiable, Time: 124.69 µs
+Problem 77: Satisfiable, Time: 93.94 µs, Assignment: {18: False, 23: False, 17: True, 1: False, 9: True, 24: True, 2: True, 13: True, 19: False, 10: False, 5: True, 3: True, 20: False, 21: False, 22: False, 7: False, 12: False, 4: True, 8: False, 11: False, 15: True, 14: True, 6: False}
+Problem 78: Unsatisfiable, Time: 99.18 µs
+Problem 79: Satisfiable, Time: 114.68 µs, Assignment: {16: False, 13: True, 21: True, 23: False, 11: False, 22: False, 1: True, 18: True, 15: True, 9: True, 19: True, 2: True, 14: False, 3: False, 6: False, 24: True, 12: False, 4: False, 8: True, 20: True, 17: False, 10: True}
+Problem 80: Satisfiable, Time: 87.98 µs, Assignment: {15: True, 19: False, 12: False, 8: False, 3: True, 22: True, 21: True, 4: True, 2: True, 18: True, 10: True, 14: False, 17: False, 16: True, 23: True, 13: True, 11: False, 24: False, 9: True, 20: False, 5: True, 7: False}
+Problem 81: Unsatisfiable, Time: 118.97 µs
+Problem 82: Satisfiable, Time: 110.15 µs, Assignment: {17: False, 19: False, 12: False, 25: False, 9: True, 5: True, 18: True, 24: False, 1: True, 3: False, 6: False, 11: True, 2: True, 16: True, 13: True, 10: False, 4: True, 22: True, 20: False, 26: False, 14: True, 15: True, 7: True, 21: False, 23: False}
+Problem 83: Unsatisfiable, Time: 103.71 µs
+Problem 84: Unsatisfiable, Time: 137.57 µs
+Problem 85: Unsatisfiable, Time: 175.71 µs
+Problem 86: Unsatisfiable, Time: 113.49 µs
+Problem 87: Satisfiable, Time: 121.12 µs, Assignment: {11: True, 4: False, 12: True, 23: False, 22: True, 21: False, 1: True, 20: False, 8: True, 19: False, 6: False, 14: True, 16: False, 15: True, 13: False, 2: False, 3: True, 18: False, 10: True, 25: True, 24: False, 26: True, 9: True, 7: False, 5: True}
+Problem 88: Satisfiable, Time: 105.86 µs, Assignment: {13: True, 19: False, 12: True, 2: False, 15: True, 1: True, 5: False, 16: True, 23: True, 21: False, 6: False, 14: True, 26: True, 18: False, 3: False, 7: False, 22: False, 8: True, 9: False, 20: True, 17: True, 25: True, 11: False}
+Problem 89: Unsatisfiable, Time: 88.93 µs
+Problem 90: Satisfiable, Time: 99.42 µs, Assignment: {17: True, 18: False, 4: False, 25: False, 20: False, 13: False, 12: True, 8: False, 21: False, 19: True, 2: True, 15: False, 5: False, 23: True, 22: False, 24: False, 7: False, 3: False, 26: True, 16: False, 6: False, 14: True, 11: True}
+Problem 91: Unsatisfiable, Time: 123.02 µs
+Problem 92: Satisfiable, Time: 101.33 µs, Assignment: {5: False, 24: True, 3: False, 16: False, 17: True, 14: True, 13: True, 1: False, 8: False, 25: True, 18: False, 21: False, 2: True, 6: False, 28: True, 10: False, 22: False, 12: False, 4: False, 20: True, 27: True, 7: True, 26: True, 19: False, 15: True, 23: False, 9: False}
+Problem 93: Unsatisfiable, Time: 167.13 µs
+Problem 94: Unsatisfiable, Time: 327.35 µs
+Problem 95: Unsatisfiable, Time: 124.22 µs
+Problem 96: Satisfiable, Time: 151.40 µs, Assignment: {28: False, 17: True, 5: True, 4: False, 11: False, 6: False, 22: False, 21: False, 12: False, 1: False, 2: True, 19: False, 3: True, 7: False, 25: False, 26: False, 10: False, 20: True, 23: False, 8: False, 27: True, 9: False, 24: True, 16: False, 13: True, 14: True, 18: False, 15: False}
+Problem 97: Satisfiable, Time: 168.56 µs, Assignment: {3: True, 9: False, 20: False, 5: True, 23: True, 14: False, 12: False, 1: True, 25: True, 7: True, 24: False, 8: False, 13: True, 22: False, 21: True, 11: False, 27: True, 17: False, 28: True, 2: False, 4: True, 16: False, 18: False, 6: False, 10: True, 19: True}
+Problem 98: Satisfiable, Time: 108.00 µs, Assignment: {28: False, 14: True, 22: True, 2: False, 25: False, 26: True, 8: True, 1: True, 16: True, 11: True, 9: False, 17: True, 19: True, 5: False, 23: False, 24: False, 6: True, 21: True, 27: True, 13: True, 4: False, 3: False, 18: True, 20: False, 12: False, 15: True}
+Problem 99: Unsatisfiable, Time: 102.76 µs
+Problem 100: Satisfiable, Time: 99.66 µs, Assignment: {16: True, 4: False, 14: True, 15: False, 19: False, 12: False, 11: False, 17: False, 2: True, 22: False, 23: True, 6: True, 24: False, 20: True, 1: False, 5: True, 13: False, 18: False, 7: True, 3: True, 21: True, 8: True, 25: False, 10: True, 27: False}
